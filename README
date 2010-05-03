@@ -1,0 +1,3 @@
+A new try at refactoring Ruby Code.
+
+Uses the 'ruby_parser', 'ruby2ruby' and 'sexp_processor' gems
